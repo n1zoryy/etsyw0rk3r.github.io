@@ -108,7 +108,6 @@ main {
 
 header {
     height: 40px;
-    position: fixed;
     padding: 60px 0;
     font-family: 'Arial' !important;
     width: 100%;
